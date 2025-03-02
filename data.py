@@ -6,5 +6,5 @@ print("Welcome to the AlaStats")
 df.drop(columns=["Артикул WB", "Удаленный товар", "Доля карточки в выручке",
                  "Доля карточки в выручке (предыдущий период)", "Переходы в карточку"])
 
-print("Hi")
+print("Hello, World!")
 print(df)
