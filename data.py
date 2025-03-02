@@ -7,5 +7,7 @@ print("Alastats top")
 df.drop(columns=["Артикул WB", "Удаленный товар", "Доля карточки в выручке",
                  "Доля карточки в выручке (предыдущий период)", "Переходы в карточку"])
 
+for i in range(5):
+    print("Alastats Top")
 print("Hello, World!")
 print(df)
