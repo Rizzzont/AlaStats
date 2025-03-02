@@ -10,5 +10,8 @@ df.drop(columns=["Артикул WB", "Удаленный товар", "Доля
 if 1 == 1:
     print("Hello!")
 
+for i in range(5):
+    print("Alastats Top")
+
 print("Hello, World!")
 print(df)
